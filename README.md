@@ -38,6 +38,12 @@ Todos os recursos online estão publicados no ![GitHub](https://img.shields.io/b
 
 - [x] Entender o uso das unidades de tamanho absolutas e relativas.
 
+## Preview
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67472888/179754171-4441cfee-d47f-4a85-aba9-d22134f549ad.PNG" width=70%"/>
+</div>
+
 
 [(Back to top)](#Sumário)
 
